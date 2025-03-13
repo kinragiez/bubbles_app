@@ -1,6 +1,5 @@
 /*
-Author: Alex Zeigarnik (kinragiez)
-Email: alexzeigarnik@outlook.com
+Author: kinragiez
 Version: 0.0
 */
 
