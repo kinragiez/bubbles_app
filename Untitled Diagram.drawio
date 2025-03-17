@@ -1,56 +1,115 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="G6ItOIY38JXHPqsH0K1o">
-    <mxGraphModel dx="794" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fSjVShYFLCvucPTeJ0q--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--2" target="fSjVShYFLCvucPTeJ0q--3">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--2" target="fSjVShYFLCvucPTeJ0q--3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--2" value="Program Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--2" value="Program Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--3" target="fSjVShYFLCvucPTeJ0q--9">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--3" target="fSjVShYFLCvucPTeJ0q--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--3" value="Welcome Message" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--3" value="Welcome Message" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--12" value="Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--9" target="fSjVShYFLCvucPTeJ0q--11">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--12" value="Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--9" target="fSjVShYFLCvucPTeJ0q--11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--14" value="Register" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--9" target="fSjVShYFLCvucPTeJ0q--13">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--14" value="Register" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--9" target="fSjVShYFLCvucPTeJ0q--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--9" value="Provide option to Log In or Register" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--9" value="Provide option to Log In or Register" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--18" value="user enters&lt;div&gt;nametag&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--11" target="fSjVShYFLCvucPTeJ0q--17">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--18" value="user enters&lt;div&gt;nametag&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--11" target="fSjVShYFLCvucPTeJ0q--17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--11" value="Request User to enter nametag" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--11" value="Request User to enter nametag" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--25" value="user enters&lt;div&gt;nametag&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--13" target="fSjVShYFLCvucPTeJ0q--24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fSjVShYFLCvucPTeJ0q--25" value="user enters&lt;div&gt;nametag&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--13" target="fSjVShYFLCvucPTeJ0q--24" edge="1">
+          <mxGeometry x="-1" y="104" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="400" />
+              <mxPoint x="650" y="400" />
+            </Array>
+            <mxPoint x="-4" y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--13" value="Prompt user to create a nametag" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-1" value="user chooses nametag" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fSjVShYFLCvucPTeJ0q--25">
+          <mxGeometry x="0.175" y="2" relative="1" as="geometry">
+            <mxPoint x="-30" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSjVShYFLCvucPTeJ0q--13" value="Prompt user to create a nametag" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--20" value="nametag exists" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--17" target="fSjVShYFLCvucPTeJ0q--19">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--20" value="nametag exists" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fSjVShYFLCvucPTeJ0q--17" target="fSjVShYFLCvucPTeJ0q--19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--26" value="nametag doesn&#39;t exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--17" target="fSjVShYFLCvucPTeJ0q--9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fSjVShYFLCvucPTeJ0q--26" value="nametag doesn&#39;t exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fSjVShYFLCvucPTeJ0q--17" target="fSjVShYFLCvucPTeJ0q--9" edge="1">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--17" value="program checks for existing nametag" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fSjVShYFLCvucPTeJ0q--17" value="program checks for existing nametag" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--19" value="Prompt user to enter password" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-14" value="use renters password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fSjVShYFLCvucPTeJ0q--24" value="Generate a password for user and ask them to save it" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="fSjVShYFLCvucPTeJ0q--19" value="Prompt user to enter password" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-6" value="username exists" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--24" target="L4RIc0Z3U3OfhwSGfFJC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-9" value="username doesn&#39;t exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fSjVShYFLCvucPTeJ0q--24" target="L4RIc0Z3U3OfhwSGfFJC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSjVShYFLCvucPTeJ0q--24" value="check if username exists" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4RIc0Z3U3OfhwSGfFJC-5" target="fSjVShYFLCvucPTeJ0q--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-5" value="let user know that the nametage already exists" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4RIc0Z3U3OfhwSGfFJC-8" target="L4RIc0Z3U3OfhwSGfFJC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-8" value="Generate Password and ask user to save it." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4RIc0Z3U3OfhwSGfFJC-15" target="L4RIc0Z3U3OfhwSGfFJC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-18" value="password is incorrect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4RIc0Z3U3OfhwSGfFJC-17">
+          <mxGeometry x="-0.1167" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-22" value="password is correct" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4RIc0Z3U3OfhwSGfFJC-15" target="L4RIc0Z3U3OfhwSGfFJC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-15" value="Program checks if password matches records" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4RIc0Z3U3OfhwSGfFJC-16" target="fSjVShYFLCvucPTeJ0q--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-16" value="Show a message that the password is incorrect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RIc0Z3U3OfhwSGfFJC-20" value="Welcome Screen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
